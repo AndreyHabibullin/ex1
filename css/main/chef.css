@@ -1,0 +1,30 @@
+.chef{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+}
+.chef__text{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    margin-right: 50px;
+}
+.chef__img{
+    background-image: url(../../images/Николай.jpg);
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 680px;
+    background-size: contain;
+    margin-left: 50px;
+}
+#chef__rest{
+    font-size: 20px;
+}
+#gold--pos4{
+    top: 4976px;
+}
