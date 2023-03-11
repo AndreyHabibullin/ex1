@@ -1,0 +1,27 @@
+.crown{
+    margin-top: 100px;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.crown__img{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.crown__text{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#gold--pos2{
+    top: 1968px;
+}
