@@ -1,0 +1,37 @@
+.background1{
+    width: 100%;
+    height: 500px;
+    background-size: 100%;  
+    background-image: url(../../images/menu__image/фон1.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+}
+.background2{
+    width: 100%;
+    height: 500px;
+    background-image: url(../../images/menu__image/фон2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.background3{
+    width: 100%;
+    height: 500px;
+    background-image: url(../../images/menu__image/фон3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+}
