@@ -1,0 +1,27 @@
+.story{
+    box-sizing: border-box;
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.story__text{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.story__img{
+    width: 50%;
+    box-sizing: border-box;
+    height: 470px;
+    background-image: url(../../images/main__image/story1.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: 70px;
+}
+#gold--pos{
+    top: 925px;
+}
